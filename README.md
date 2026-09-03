@@ -5,6 +5,8 @@ Schifanella, Stamos, Goldfarbmuren, Bissa et al. 2026 Plos Pathogens
 
 - raw datasets used can be found in input_data/ccrvb15_olinkALVACALFQA_KCG_list_of_RAW_datasets.xlsx
 
+- analyte names by category can be found in input_data/ccrvb15_olinkALVACALFQA_KCG_list_of_vars.xlsx
+
 - data plotted in each figure panel can be found in outputs/ccrvb15_olinkALVACALFQA_KCG_list_of_plotted.xlsx
 
 - statistical analysis results can be found in outputs/ccrvb15_olinkALVACALFQA_KCG_list_of_stats.xlsx
